@@ -1,0 +1,10 @@
+{ "type": "FeatureCollection",
+  "features": [
+  {  "type": "Feature",
+     "geometry": { "type": "Point", "coordinates": [-97.75085, 30.25907] },
+      "properties": { "title": "Austin" } },
+ {  "type": "Feature",
+     "geometry": { "type": "Point", "coordinates": [-97.78085, 30.20907] },
+      "properties": { "title": "Not Austin" } }  
+      ]
+    }
